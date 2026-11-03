@@ -1,0 +1,19 @@
+{
+  "name": "shopping-cart-design-patterns",
+  "version": "1.0.0",
+  "description": "A procedural shopping cart refactored using the Module Pattern",
+  "type": "module",
+  "main": "procedural/cart.js",
+  "scripts": {
+    "procedural": "node procedural/cart.js",
+    "module": "node module/cart.js"
+  },
+  "keywords": [
+    "javascript",
+    "procedural-programming",
+    "module-pattern",
+    "shopping-cart"
+  ],
+  "author": "",
+  "license": "ISC"
+}
